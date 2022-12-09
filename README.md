@@ -1,4 +1,4 @@
-# Image-Denoising-using-PDE
+# Image-Denoising-using-Partial-Differential-Equation
 
 With the blast in the number of advanced pictures taken each day, the interest for progressively exact and outwardly satisfying pictures is expanding. Be that as it may, the photographs caught by present-day cameras are unavoidably corrupted by noise, which prompts weakened visual picture quality. Accordingly, work is required to diminish noise without losing picture highlights (edges, corners, and other sharp structures).
 
